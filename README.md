@@ -1,6 +1,6 @@
 AgileGames
 ==========
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">アジャイルプラクティス体験ゲームパック</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Asuka Kamijo</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja">Creative Commons 表示 - 非営利 - 継承 3.0 非移植 License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">アジャイルプラクティス体験ゲームパック</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Asuka Kamijo</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja">Creative Commons 表示 - 非営利 - 継承 3.0 非移植 License</a>.  
 アジャイルのプラクティスを取り扱ったゲームです。  
 
 LAND  
