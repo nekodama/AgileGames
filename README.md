@@ -18,3 +18,6 @@ LAND
 
 ゲームには、専門用語は一切出てきません。  
 上記の用語を知らなくても、なんの問題もありません。  
+  
+作成：上條　飛鳥(Kamijo Asuka)  
+ご連絡・お問合せ：@nekoasuka / Twitter または 作成者 / Facebook  
